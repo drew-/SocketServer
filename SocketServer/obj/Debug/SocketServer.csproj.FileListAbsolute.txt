@@ -1,0 +1,9 @@
+c:\users\myersay\documents\visual studio 2015\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+c:\users\myersay\documents\visual studio 2015\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+c:\users\myersay\documents\visual studio 2015\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+c:\users\myersay\documents\visual studio 2015\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+c:\users\myersay\documents\visual studio 2015\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+c:\users\myersay\documents\visual studio 2015\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\jamyers.ANDY\Documents\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\jamyers.ANDY\Documents\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\jamyers.ANDY\Documents\SocketServer\SocketServer\obj\Debug\SocketServer.pdb

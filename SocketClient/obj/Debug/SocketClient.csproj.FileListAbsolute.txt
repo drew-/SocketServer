@@ -1,0 +1,6 @@
+C:\Users\myersay\documents\visual studio 2015\Projects\SocketServer\SocketClient\bin\Debug\SocketClient.exe.config
+C:\Users\myersay\documents\visual studio 2015\Projects\SocketServer\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\myersay\documents\visual studio 2015\Projects\SocketServer\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\myersay\documents\visual studio 2015\Projects\SocketServer\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
+C:\Users\myersay\documents\visual studio 2015\Projects\SocketServer\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\myersay\documents\visual studio 2015\Projects\SocketServer\SocketClient\obj\Debug\SocketClient.pdb
